@@ -1,0 +1,14 @@
+
+bin/fmodex.dll
+bin/fmodexL.dll
+bin/FreeImage.dll
+bin/FreeType-6.dll
+bin/glut32.dll
+bin/graphicsExample_debug.exe
+bin/graphicsExample_debug.ilk
+bin/graphicsExample_debug_debugInfo.pdb
+bin/Zlib.dll
+graphicsExample.opensdf
+graphicsExample.sdf
+ipch/graphicsexample-2fcbc750/graphicsexample_debug-1b68566.ipch
+obj/*
